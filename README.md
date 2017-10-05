@@ -13,7 +13,7 @@ Consideraciones Específicas
 ------------------------- 
 
 **Diagrama de FLujo
-![Diagrama de Flujo]()    
+![Diagrama de Flujo](https://github.com/J0ssy/valid-credit-card/blob/master/diagrama-flujo.tarjeta-credito-valida.jpg)    
 
 ------------------------- 
 
